@@ -11,7 +11,7 @@ Especialidades:
 - Limpeza e padronização de dados
 - Análise de tendências e relações nos dados
 - Alto conhecimento em matemática
-- Fluente em inglês
+- Inglês avançado
 
 ### Linguagens e ferramentas utilizadas
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
